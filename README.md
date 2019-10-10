@@ -20,6 +20,8 @@ The programs widgets display will be similar to the following:
 
 ![](widgets-ubuntu-versions.png)
 
+There is also a code cell that highlights version differences in releases of Debian Mate Live.
+
 ---
 
 Ian Stewart - 10 Oct 2019 - CC0
