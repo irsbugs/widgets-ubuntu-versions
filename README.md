@@ -20,7 +20,7 @@ The programs widgets display will be similar to the following:
 
 ![](widgets-ubuntu-versions.png)
 
-Aditionally there is a code cell that highlights version differences in some releases of Debian Mate Live.
+Additionally there is a code cell that highlights version differences in some releases of Debian Mate Live.
 
 ---
 
