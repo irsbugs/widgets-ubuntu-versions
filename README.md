@@ -24,4 +24,4 @@ Aditionally there is a code cell that highlights version differences in some rel
 
 ---
 
-Ian Stewart - 10 Oct 2019 - CC0
+Ian Stewart - 11 Oct 2019 - CC0
