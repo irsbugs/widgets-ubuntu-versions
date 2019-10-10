@@ -14,13 +14,13 @@ Using a drop-down widget an application may be selected. In a text-area widget, 
 
 `3.6.5-3,    3.6.5-3ubuntu1,    3.6.7-1~18.04,    3.6.7-1~18.04.`
 
-The program require on-line access to the internet.
+The program requires on-line access to the internet.
 
 The programs widgets display will be similar to the following:
 
 ![](widgets-ubuntu-versions.png)
 
-There is also a code cell that highlights version differences in releases of Debian Mate Live.
+Aditionally there is a code cell that highlights version differences in some releases of Debian Mate Live.
 
 ---
 
